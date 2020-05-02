@@ -13,7 +13,8 @@ var Time = moment().format("H");
 var TimeInt = parseInt(Time);
 // global variables
 
-// set data attributes to each hour input element
+// set data attributes to each input by hour and ID.
+// should put the individual inputs results into and array
 
 $("#7HOUR").attr("data-time", moment("7:00 am", "h:mm a").format("H"));
 $("#8HOUR").attr("data-time", moment("8:00 am", "h:mm a").format("H"));

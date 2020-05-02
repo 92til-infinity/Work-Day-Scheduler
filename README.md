@@ -1,3 +1,5 @@
+## READ ME
+**Project Title**
 # Work-Day-Scheduler
 ## User Story
 
@@ -24,3 +26,26 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+
+One Paragraph of project description goes here
+
+**Getting Started**
+click the corresponding time block you wish to log your acivit, enter the text needed and click the save button.
+
+**Prerequisites**
+none
+
+**Give examples**
+localStorage is best used in simplest forms, dont overcomplicate.
+
+**Installing**
+
+
+**Built With**
+bootstrap CDN
+Moment.js CDN
+Javascript
+HTML
+jQuery
+CSS
